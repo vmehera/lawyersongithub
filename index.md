@@ -400,3 +400,9 @@ Law student at National Taiwan University. Pythonista. FLOSS advocate. Founder o
 @RSChiang on [Plurk](https://www.plurk.com/RSChiang) or on [Twitter](https://twitter.com/RSChiang)
 
 [Personal Website](http://poren.tw)
+
+## [Vedika Mehera](https://github.com/vmehera)
+
+Law student at Suffolk University Law School, Boston
+
+[LinkedIn](https://www.linkedin.com/profile/view?id=123992851&trk=nav_responsive_tab_profile_pic)
